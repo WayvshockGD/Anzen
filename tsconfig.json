@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "watch": true,
+        "outDir": "./build",
+        "target":"ES2022",
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "strictPropertyInitialization": true,
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
